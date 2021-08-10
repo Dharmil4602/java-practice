@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddingTwoNumbers/AddingTwoNumbers.iml" filepath="$PROJECT_DIR$/AddingTwoNumbers/AddingTwoNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Practice.iml" filepath="$PROJECT_DIR$/.idea/Java-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplyingFloatingNumber/MultiplyingFloatingNumber.iml" filepath="$PROJECT_DIR$/MultiplyingFloatingNumber/MultiplyingFloatingNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/printingAnInteger/printingAnInteger.iml" filepath="$PROJECT_DIR$/printingAnInteger/printingAnInteger.iml" />
     </modules>
   </component>
