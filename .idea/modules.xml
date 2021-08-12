@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddingTwoNumbers/AddingTwoNumbers.iml" filepath="$PROJECT_DIR$/AddingTwoNumbers/AddingTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlphabetOrConsonent/AlphabetOrConsonent.iml" filepath="$PROJECT_DIR$/AlphabetOrConsonent/AlphabetOrConsonent.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/EvenOdd/EvenOdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Practice.iml" filepath="$PROJECT_DIR$/.idea/Java-Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplyingFloatingNumber/MultiplyingFloatingNumber.iml" filepath="$PROJECT_DIR$/MultiplyingFloatingNumber/MultiplyingFloatingNumber.iml" />
