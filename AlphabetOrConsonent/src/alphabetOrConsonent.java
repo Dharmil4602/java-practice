@@ -63,5 +63,39 @@ public class alphabetOrConsonent {
         {
             System.out.println("You Entered A Consonent");
         }
+
+        System.out.println(" ");
+
+        // Same Example With Switch Case:
+
+        System.out.println("Same Example With Switch Case");
+
+        System.out.println(" ");
+
+        char character;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter The Character For Switch Case Method: ");
+        character = sc.next().charAt(0);
+
+        switch (character)
+        {
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
+            case 'A':
+            case 'E':
+            case 'I':
+            case 'O':
+            case 'U':
+
+                System.out.println("You Entered A Vowel");
+                break;
+
+            default:
+                System.out.println("You Entered A Consonent Or A Number");
+        }
+
     }
 }
